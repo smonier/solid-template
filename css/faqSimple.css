@@ -75,6 +75,7 @@ main {
 .question h4 {
     text-transform: none;
     line-height: 1.5;
+    margin-top: 2px;
 }
 
 .question p {
@@ -102,7 +103,7 @@ main {
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    color: var(--clr-red-special);
+    color: var(--clr-primary-1);
     cursor: pointer;
     margin-left: 1rem;
     align-self: center;
